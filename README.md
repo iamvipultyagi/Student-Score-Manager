@@ -1,5 +1,17 @@
 # Masai Assignment
 
+Q: 11
+Title:
+L0 - Array Manipulation: Tracking Daily Temperatures
+
+Problem Statement:
+Create an array that stores the temperatures recorded over 7 days. Use indexing to access the temperature for the 4th day and update it to a new value by adding 2 degrees. After that, log the updated temperatures for all 7 days to the console.
+
+Q: 12
+Title: L0 - 
+Managing a To-Do List: Adding and Removing Tasks
+
+Problem Statement: Create an array that represents your daily to-do list with 5 tasks. Add a new task to the beginning of the list. Then, remove the last task from the list. Finally, log the updated to-do list to the console.
 
 Q 13
 Title: 
